@@ -5,6 +5,8 @@
 - String 값을 변환할 수 있기 때문에 String 함수를 이용해 긴 문장에서 값을 추출해 내는 것이 용이합니다.
 - 0~f 이외의 값이 들어오면 값을 변환하지 않습니다.(로그에 에러가 출력됩니다.)
 
+![Screen_Recording_20201008-093736_1](https://user-images.githubusercontent.com/46275549/95404779-f0fbce80-0950-11eb-9d20-ff215a538d51.gif)
+
 ## parse
 ~~~
 int num = int.parse(myController.txt, radix: 16);
