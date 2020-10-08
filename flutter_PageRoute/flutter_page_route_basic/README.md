@@ -1,4 +1,4 @@
-# flutter_page_route
+# flutter_page_route_basic
 
 - Main_Page에서 RaisedButton을 누르면 SecondPage가 띄워집니다.
 - SecondPage에서 버튼을 누르면 Main_Page로 돌아옵니다.
