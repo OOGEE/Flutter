@@ -8,7 +8,7 @@
 ![Screen_Recording_20201008-093736_1](https://user-images.githubusercontent.com/46275549/95404779-f0fbce80-0950-11eb-9d20-ff215a538d51.gif)
 
 ## parse
-~~~
+~~~dart
 int num = int.parse(myController.txt, radix: 16);
 ~~~
 - TextField에서 String으로 16진수를 입력 받았다는 가정하에 그 값을 10진수로 파싱합니다.
