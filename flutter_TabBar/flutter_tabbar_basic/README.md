@@ -4,6 +4,9 @@
 - 상단의 탭바 메뉴 중 하나를 선택하거나, 좌우 슬라이드를 통해 페이지를 변경할 수 있습니다.
 - 각각의 탭바에 나올 페이지의 내용을 다르게 작성할 수 있습니다.
 
+![Screen_Recording_20201012-112412_1](https://user-images.githubusercontent.com/46275549/95698824-c2963000-0c7d-11eb-9853-2d6f9ee9b89b.gif)
+![Screen_Recording_20201012-112424_One UI Home_1](https://user-images.githubusercontent.com/46275549/95698828-c45ff380-0c7d-11eb-9d66-fd464a21439c.gif)
+
 ## TabBar
 ~~~dart
 TabController controller;
