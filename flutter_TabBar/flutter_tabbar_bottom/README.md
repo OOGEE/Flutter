@@ -4,6 +4,8 @@
 - 하단의 탭바 메뉴 중 하나를 선택하며 페이지를 변경할 수 있습니다.
 - 각각의 탭바에 나올 페이지의 내용을 다르게 작성할 수 있습니다.
 
+![Screen_Recording_20201012-144007_1](https://user-images.githubusercontent.com/46275549/95709146-00ed1880-0c99-11eb-85df-6018f1bec403.gif)
+
 ## List<Widget>
 ~~~dart
 List<Widget> _widgets = <Widget> [
