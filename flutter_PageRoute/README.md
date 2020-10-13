@@ -28,7 +28,7 @@
 - SecondPage에서 'Go MainPage' 버튼을 누르면 MainPage로 돌아가며, TextField에 입력했던 텍스트를 볼 수 있습니다.
 - 기존의 flutter_PageRoute_Data에서 여러개의 TextField의 데이터를 페이지 간 교환하는 기능을 추가 구현했습니다.
 - 숫자 입력란의 경우 정수를 입력하지 않을 시 에러가 납니다.
-- flutter_PageRoute_Data에서 추가된 기능만 설명했습니다.
+- flutter_page_route_data에서 추가된 기능만 설명했습니다.
 
 ## [flutter_page_route_back_data](https://github.com/OOGEE/Flutter/tree/master/flutter_PageRoute/flutter_page_route_back_data)
 
@@ -36,4 +36,4 @@
 - SecondPage에서 첫 번째 데이터 선택인 'a', 'b', 'c' 버튼 중 하나를 누르면 이를 화면에 출력합니다.
 - SecondPage에서 두 번째 데이터 선택인 '1', '2', '3' 버튼 중 하나를 누르면 이를 화면에 출력합니다.
 - 상단 좌측의 앱바에 뒤로가기 버튼이나 스마트폰 자체의 뒤로가기 버튼을 누르면 MainPage로 돌아가며, 선택했던 데이터가 출력되는 것을 볼 수 있습니다.
-- 기존의 flutter_PageRoute_Data_Plus를 기반으로 제작했기 때문에 수정 및 추가한 내용만 설명했습니다.
+- 기존의 flutter_page_route_data_plus를 기반으로 제작했기 때문에 수정 및 추가한 내용만 설명했습니다.

@@ -3,7 +3,7 @@
 - MainPage 및 SecondPage에서 TextField를 사용해 원하는 텍스트를 입력할 수 있습니다.
 - MainPage에서 'Go SecondPage' 버튼을 누르면 SecondPage가 띄워지며, TextField에 입력했던 텍스트를 볼 수 있습니다.
 - SecondPage에서 'Go MainPage' 버튼을 누르면 MainPage로 돌아가며, TextField에 입력했던 텍스트를 볼 수 있습니다.
-- 기존의 [flutter_PageRoute_Data](https://github.com/OOGEE/flutter_PageRoute_Data)에서 여러개의 TextField의 데이터를 페이지 간 교환하는 기능을 추가 구현했습니다.
+- 기존의 [flutter_page_route_data](https://github.com/OOGEE/flutter_PageRoute_Data)에서 여러개의 TextField의 데이터를 페이지 간 교환하는 기능을 추가 구현했습니다.
 - 숫자 입력란의 경우 정수를 입력하지 않을 시 에러가 납니다.
 
 * flutter_PageRoute_Data에서 추가된 기능만 설명했습니다.
