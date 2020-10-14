@@ -4,6 +4,9 @@
 - 색상 그라데이션을 이용해 디자인을 꾸밀 수 있습니다.
 - 시작점과 끝점을 사용해 그라데이션을 표현하는 LinearGradient와 일정 포인트를 중심으로 그라데이션을 표현하는 RadialGradient 2가지를 구현했습니다.
 
+<img height="800" src="https://user-images.githubusercontent.com/46275549/95932404-be494e80-0e06-11eb-92e1-c8571f9d8b60.jpg">
+
+
 ## LinearGradient
 ~~~dart
 Container(
