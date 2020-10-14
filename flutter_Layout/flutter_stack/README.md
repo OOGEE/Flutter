@@ -3,6 +3,8 @@
 - Stack을 사용해 위젯의 위치를 자유롭게 배치할 수 있습니다.
 - Stack 내부의 가장 큰 가로, 세로 길이를 가진 위젯이 기준이 됩니다. ex) 가장 큰 위젯 위치 기준 위에서 50, 왼쪽에서 50
 
+![Screenshot_20201014-092653](https://user-images.githubusercontent.com/46275549/95929692-960a2180-0dff-11eb-8350-232f264d834d.jpg)
+
 ## Stack / Positioned
 ~~~dart
 body: Stack(
