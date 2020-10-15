@@ -21,4 +21,4 @@
 
 ## [flutter_Layout](https://github.com/OOGEE/Flutter/tree/master/flutter_Layout)
 
-- 위젯들의 레이아웃 구성에 관해 모아놓은 것입니다.
+- 레이아웃 구성에 관해 모아놓은 것입니다.
