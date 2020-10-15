@@ -14,3 +14,10 @@
 - Container의 decoration 기능 중 하나인 gradient 기능을 구현했습니다.
 - 색상 그라데이션을 이용해 디자인을 꾸밀 수 있습니다.
 - 시작점과 끝점을 사용해 그라데이션을 표현하는 LinearGradient와 일정 포인트를 중심으로 그라데이션을 표현하는 RadialGradient 2가지를 구현했습니다.
+
+## [flutter_gradient_plus](https://github.com/OOGEE/Flutter/tree/master/flutter_Layout/flutter_gradient_plus)
+
+- Container의 decoration 기능 중 하나인 gradient 기능을 구현했습니다.
+- 색상 그라데이션을 이용해 디자인을 꾸밀 수 있습니다.
+- 시작점과 끝점을 사용해 그라데이션을 표현하는 LinearGradient와 일정 포인트를 중심으로 그라데이션을 표현하는 RadialGradient 2가지를 구현했습니다.
+- 기존의 flutter_gradient에 tileMode 기능을 활용해 디자인을 변경한 것이기 때문에 수정한 부분만 설명했습니다.
