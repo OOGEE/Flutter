@@ -5,6 +5,11 @@
 - 시작점과 끝점을 사용해 그라데이션을 표현하는 LinearGradient와 일정 포인트를 중심으로 그라데이션을 표현하는 RadialGradient 2가지를 구현했습니다.
 - 기존의 [flutter_gradient](https://github.com/OOGEE/Flutter/tree/master/flutter_Layout/flutter_gradient)에 tileMode 기능을 활용해 디자인을 변경한 것이기 때문에 수정한 부분만 설명했습니다.
 
+<div>
+<img height="800" src="https://user-images.githubusercontent.com/46275549/96059613-6293c980-0ec9-11eb-9483-54557e7b7478.jpg">
+<img height="800" src="https://user-images.githubusercontent.com/46275549/96059617-63c4f680-0ec9-11eb-9afd-9cc9d4dcae30.jpg">
+</div
+
 ## tileMode
 ~~~dart
 begin: Alignment(x, y),
