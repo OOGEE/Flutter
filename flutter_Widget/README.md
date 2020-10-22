@@ -20,6 +20,6 @@
 - 기능은 FlatButton에 모두 모여있으며, 다른 버튼들은 차별화된 기능만 설명했습니다.
 - icon을 삽입하는 경우도 위와 동일합니다.
 
-## [flutter_use_image](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_image)
+## [flutter_image](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_image)
 
 - 원하는 이미지를 사용하는 방법입니다.

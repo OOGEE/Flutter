@@ -29,4 +29,4 @@ body: ListView(
 - ListView는 기본적으로 Column과 같이 세로로 위젯을 배치하는데 그 내부에 Row를 추가하고 싶을 때 위와 같은 방식으로 추가 가능
 
 ## Image
-- [flutter_widget_1]()의 Image 설명 부분 참고
+- [flutter_image](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_image) 참고

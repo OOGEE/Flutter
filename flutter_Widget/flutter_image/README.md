@@ -1,5 +1,5 @@
 
-# flutter_use_image
+# flutter_image
 
 - 원하는 이미지를 사용하는 방법입니다.
 <div>
