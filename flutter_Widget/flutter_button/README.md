@@ -131,4 +131,4 @@ FlatButton(
 ~~~
 - child에 Image.asset('~')을 사용함으로써 Text가 아닌 Image를 사용해 버튼을 제작하는 것이 가능
 - FlatButton이 아닌 OutlineButton, RaisedButton, InkWell도 동일하게 사용 가능
-- [flutter_use_image](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_image)에서 이미지 사용하는 방법 확인
+- [flutter_image](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_image)에서 이미지 사용하는 방법 확인
