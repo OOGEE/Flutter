@@ -1,8 +1,10 @@
+
 # flutter_use_image
 
 - 원하는 이미지를 사용하는 방법입니다.
-
-![Screenshot_20201022-113114](https://user-images.githubusercontent.com/46275549/96817399-34c6fb80-145a-11eb-9803-523a85e702cf.jpg)
+<div>
+<img height="800" src="https://user-images.githubusercontent.com/46275549/96817399-34c6fb80-145a-11eb-9803-523a85e702cf.jpg">
+</div>
 
 -------------------------
 
