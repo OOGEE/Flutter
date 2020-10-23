@@ -4,11 +4,18 @@
 
 -------------------------
 
+##[flutter_low_column](https://github.com/OOGEE/Flutter/tree/master/flutter_Layout/flutter_low_column)
+
+- 위젯을 가로로 놓는 방식인 Row와 세로로 놓는 방식인 Column에 대한 예제입니다.
+- 화면의 길이에 구애받지 않고 크기에 맞춰 늘리는 방식인 Expanded 기능을 사용했습니다.
+- Expanded를 사용할 때 사용자가 임의로 비율을 줄 수 있는 flex를 사용했습니다.
+- Container가 사용하는 공간 내부에서 위젯의 위치를 지정할 수 있는 alignment를 사용했습니다.
+- Container와 위젯 사이의 공간 여유를 줄 수 있는 margin을 사용했습니다.
+
 ## [flutter_list_view](https://github.com/OOGEE/Flutter/tree/master/flutter_Layout/flutter_list_view)
 
 - 상하 스크롤 기능을 구현하는 ListView에 대한 예제입니다.
 - 화면의 세로 길이에 제약받지 않고 자유롭게 위젯을 크게 하거나 여러개를 배열하는 작업이 가능합니다.
-
 
 ## [flutter_list_view_plus](https://github.com/OOGEE/Flutter/tree/master/flutter_Layout/flutter_list_view_plus)
 
