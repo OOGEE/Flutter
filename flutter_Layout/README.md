@@ -4,7 +4,7 @@
 
 -------------------------
 
-##[flutter_low_column](https://github.com/OOGEE/Flutter/tree/master/flutter_Layout/flutter_low_column)
+## [flutter_low_column](https://github.com/OOGEE/Flutter/tree/master/flutter_Layout/flutter_low_column)
 
 - 위젯을 가로로 놓는 방식인 Row와 세로로 놓는 방식인 Column에 대한 예제입니다.
 - 화면의 길이에 구애받지 않고 크기에 맞춰 늘리는 방식인 Expanded 기능을 사용했습니다.
