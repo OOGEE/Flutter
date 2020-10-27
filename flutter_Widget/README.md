@@ -28,3 +28,9 @@
 
 - 박스를 누르면 리스트가 나오고 그 중 하나를 선택 할 수 있는 기능을 가진 DropdownButton 위젯에 관한 내용입니다.
 - 안에 들어갈 내용을 수정할 수 있으며, 선택하기 이전에 힌트를 제공합니다.
+
+## [flutter_drop_down_button_plus](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_drop_down_button_plus)
+
+- 내부에 사용하는 버튼의 구성을 Int로 제작한 DropdownButton입니다.
+- 앞에 해당하는 숫자가 선정되면 뒤에 DropdownButton의 범위를 그에 따라 변경합니다.
+- 기존의 flutter_drop_down_button을 기반으로 제작했기 때문에 추가 및 수정된 부분만 설명했습니다.
