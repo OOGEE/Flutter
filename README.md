@@ -26,3 +26,7 @@
 ## [flutter_Build_APK](https://github.com/OOGEE/Flutter/tree/master/flutter_Build_APK)
 
 - 안드로이드 스튜디오로 APK 파일을 생성하는 방법입니다.
+
+## [flutter_Package](https://github.com/OOGEE/Flutter/tree/master/flutter_Package)
+
+- 패키지를 사용하는 방법입니다.
