@@ -34,3 +34,10 @@
 - 내부에 사용하는 버튼의 구성을 Int로 제작한 DropdownButton입니다.
 - 앞에 해당하는 숫자가 선정되면 뒤에 DropdownButton의 범위를 그에 따라 변경합니다.
 - 기존의 flutter_drop_down_button을 기반으로 제작했기 때문에 추가 및 수정된 부분만 설명했습니다.
+
+## [flutter_url](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_url)
+
+- 버튼을 누르면 스마트폰 자체의 브라우저를 통해 웹 화면을 띄울 수 있습니다.
+- 버튼에 관한 설명은 하지 않았습니다.
+- "url_launcher"라는 패키지를 사용해 제작했습니다.
+- 패키지 적용 방법은 flutter_Package를 통해 확인할 수 있습니다.
