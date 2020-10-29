@@ -41,3 +41,9 @@
 - 버튼에 관한 설명은 하지 않았습니다.
 - "url_launcher"라는 패키지를 사용해 제작했습니다.
 - 패키지 적용 방법은 flutter_Package를 통해 확인할 수 있습니다.
+
+## [flutter_number_picker](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_number_picker)
+
+- 흔히 알람에서 시간을 적용할 때 사용하는 기능 중 하나인 상하로 스와이프 해 숫자를 정하는 기능을 가진 위젯입니다.
+- "numberpicker"라는 패키지를 사용해 제작했습니다.
+- 패키지 적용 방법은 flutter_Package를 통해 확인할 수 있습니다.
