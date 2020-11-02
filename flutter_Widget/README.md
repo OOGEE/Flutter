@@ -54,3 +54,10 @@
 - "flutter_swiper"라는 패키지를 사용해 제작했습니다.
 - 패키지 사용 방법은 flutter_Package를 통해 확인할 수 있습니다.
 - 이미지 사용 방법은 flutter_image를 통해 확인할 수 있습니다.
+
+## [flutter_slider](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_slider)
+
+- 지정한 범위 내에 값을 좌우로 스와이프하여 고를 수 있습니다.
+- 최소값과 최대값의 범위를 직접 입력할 수 있고, 값의 단계를 나누는 것도 가능합니다.
+- 슬라이더를 눌렀을 때 현재 값이 무엇인지 보여줍니다.
+- 슬라이더를 꾸미는 방법은 flutter_slider_value에서 확인할 수 있습니다.
