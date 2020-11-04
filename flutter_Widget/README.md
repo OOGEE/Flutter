@@ -10,6 +10,11 @@
 - 한 줄에 각각의 텍스트를 원하는 서식으로 보여줄 수 있는 RichText, TextSpan 위젯을 구현했습니다.
 - 사용자가 직접 문자를 입력할 수 있는 TextField 위젯과 이를 자신이 원하는 스타일로 적용하는 방법을 다뤘습니다.
 
+## [flutter_dialog](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_dialog)
+
+- Dialog는 화면을 다 채우지 않는 작은 팝업 화면으로 사용자에게 정보를 입력 받거나, 확인을 위해 창을 띄워주는데 사용하는 위젯입니다.
+- Dialog 창의 'OK'나 'close'를 누르면 팝업 창이 사라집니다.
+
 ## [flutter_button](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_button)
 
 - 다양한 버튼들을 구현하는 방법을 다뤘습니다.
