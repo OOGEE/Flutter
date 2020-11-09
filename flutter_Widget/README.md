@@ -59,15 +59,23 @@
 - 패키지 사용 방법은 flutter_Package를 통해 확인할 수 있습니다.
 - 이미지 사용 방법은 flutter_image를 통해 확인할 수 있습니다.
 
+## [flutter_text](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_text)
+
+- 화면에 원하는 문자들(String)을 보여주는 Text 위젯과 이를 자신이 원하는 스타일로 적용하는 방법을 다뤘습니다.
+- 한 줄에 각각의 텍스트를 원하는 서식으로 보여줄 수 있는 RichText, TextSpan 위젯을 구현했습니다.
+- 사용자가 직접 문자를 입력할 수 있는 TextField 위젯과 이를 자신이 원하는 스타일로 적용하는 방법을 다뤘습니다.
+
+## [flutter_toast](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_toast)
+
+- toast는 하단의 작은 팝업으로 사용자에게 무언가 확인시켜 줄 때 띄우는 위젯입니다.
+- 일정 시간이 지나면 자동으로 사라집니다.
+- "fluttertoast"라는 패키지를 사용해 제작했습니다.
+- 패키지 적용 방법은 flutter_Package를 통해 확인할 수 있습니다.
+
+
 ## [flutter_url](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_url)
 
 - 버튼을 누르면 스마트폰 자체의 브라우저를 통해 웹 화면을 띄울 수 있습니다.
 - 버튼에 관한 설명은 하지 않았습니다.
 - "url_launcher"라는 패키지를 사용해 제작했습니다.
 - 패키지 적용 방법은 flutter_Package를 통해 확인할 수 있습니다.
-
-## [flutter_text](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_text)
-
-- 화면에 원하는 문자들(String)을 보여주는 Text 위젯과 이를 자신이 원하는 스타일로 적용하는 방법을 다뤘습니다.
-- 한 줄에 각각의 텍스트를 원하는 서식으로 보여줄 수 있는 RichText, TextSpan 위젯을 구현했습니다.
-- 사용자가 직접 문자를 입력할 수 있는 TextField 위젯과 이를 자신이 원하는 스타일로 적용하는 방법을 다뤘습니다.
