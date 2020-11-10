@@ -14,6 +14,12 @@
 - 기능은 FlatButton에 모두 모여있으며, 다른 버튼들은 차별화된 기능만 설명했습니다.
 - icon을 삽입하는 경우도 위와 동일합니다.
 
+## [flutter_color_picker](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_color_picker)
+
+- 자신이 원하는 색상을 찾고, 이를 사용할 수 있는 기능을 구현했습니다.
+- "flutter_colorpicker"라는 패키지를 사용해 제작했습니다.
+- 패키지 적용 방법은 flutter_Package를 통해 확인할 수 있습니다.
+
 ## [flutter_dialog](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_dialog)
 
 - Dialog는 화면을 다 채우지 않는 작은 팝업 화면으로 사용자에게 정보를 입력 받거나, 확인을 위해 창을 띄워주는데 사용하는 위젯입니다.
