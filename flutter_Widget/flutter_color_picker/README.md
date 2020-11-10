@@ -5,8 +5,8 @@
 - 패키지 적용 방법은 [flutter_Package](https://github.com/OOGEE/Flutter/tree/master/flutter_Package)를 통해 확인할 수 있습니다.
 
 <div>
-<img height="800" src="https://user-images.githubusercontent.com/46275549/98613946-bd8ad600-233a-11eb-94c0-03c37e9c23cc.gif">
 <img height="800" src="https://user-images.githubusercontent.com/46275549/98613950-bebc0300-233a-11eb-8046-51677133a84a.gif">
+<img height="800" src="https://user-images.githubusercontent.com/46275549/98613946-bd8ad600-233a-11eb-94c0-03c37e9c23cc.gif">
 </div>
 
 ## currentColor
