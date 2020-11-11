@@ -49,6 +49,12 @@
 - Container가 사용하는 공간 내부에서 위젯의 위치를 지정할 수 있는 alignment를 사용했습니다.
 - Container와 위젯 사이의 공간 여유를 줄 수 있는 margin을 사용했습니다.
 
+## [flutter_orientation](https://github.com/OOGEE/Flutter/tree/master/flutter_Layout/flutter_orientation)
+
+- 버튼을 통해 화면을 전환할 수 있는 기능을 구현했습니다.
+- 화면을 자신이 원하는 방향으로 고정시킬 수 있습니다.
+- 본 예제에서는 화면을 한 방향으로 고정했지만, 변수를 여러개 넣어 사용하는 것이 가능합니다.
+
 ## [flutter_stack](https://github.com/OOGEE/Flutter/tree/master/flutter_Layout/flutter_stack)
 
 - Stack을 사용해 위젯의 위치를 자유롭게 배치할 수 있습니다.
