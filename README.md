@@ -7,6 +7,10 @@
 
 -------------------------
 
+## [flutter_BlueTooth](https://github.com/OOGEE/Flutter/tree/master/flutter_BlueTooth)
+
+- 클래식 블루투스와 BLE를 다룰 수 내용을 모아놓은 것입니다.
+
 ## [flutter_Build_APK](https://github.com/OOGEE/Flutter/tree/master/flutter_Build_APK)
 
 - 안드로이드 스튜디오로 APK 파일을 생성하는 방법입니다.
