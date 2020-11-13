@@ -7,10 +7,11 @@
 - 버튼에 텍스트 대신 이미지를 삽입하는 방법 구현했습니다.
 - 기능은 FlatButton에 모두 모여있으며, 다른 버튼들은 차별화된 기능만 설명했습니다.
 - icon을 삽입하는 경우도 위와 동일합니다.
-<div>
-<img height="800" src="https://user-images.githubusercontent.com/46275549/96809056-1b6f8080-1455-11eb-8685-251fe7baaa1b.gif">
-<img height="800" src="https://user-images.githubusercontent.com/46275549/96809059-1ca0ad80-1455-11eb-84ce-34f2dbf3833e.gif">
-</div>
+
+
+짧게 터치 | 길게 터치 |
+:---:|:---:|
+![](https://user-images.githubusercontent.com/46275549/96809056-1b6f8080-1455-11eb-8685-251fe7baaa1b.gif)  |  ![](https://user-images.githubusercontent.com/46275549/96809059-1ca0ad80-1455-11eb-84ce-34f2dbf3833e.gif)
 
 ## FlatButton
 ~~~dart
