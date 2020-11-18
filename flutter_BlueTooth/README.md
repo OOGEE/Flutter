@@ -12,3 +12,9 @@
 - "flutter_bluetooth_serial" 패키지를 사용했습니다.
 - flutter_bluetooth_serial 패키지의 예제를 기반으로 제작했습니다.
 - 패키지 적용 방법은 flutter_Package를 통해 확인할 수 있습니다.
+
+## [classic_bluetooth_send](https://github.com/OOGEE/Flutter/tree/master/flutter_BlueTooth/classic_bluetooth_send)
+
+- 클래식 블루투스와 연결 및 데이터를 송신할 수 있는 예제입니다.
+- 본 예제는 전송에 관한 내용만을 다룬 것으로 연결에 관한 내용은 classic_bluetooth_connect를 통해 확인할 수 있습니다.
+- classic_bluetooth_connect에서 설명한 내용은 생략했습니다.
