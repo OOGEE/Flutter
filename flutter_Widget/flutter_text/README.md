@@ -4,8 +4,9 @@
 - 한 줄에 각각의 텍스트를 원하는 서식으로 보여줄 수 있는 RichText, TextSpan 위젯을 구현했습니다.
 - 사용자가 직접 문자를 입력할 수 있는 TextField 위젯과 이를 자신이 원하는 스타일로 적용하는 방법을 다뤘습니다.
 
-![Screen_Recording_20201020-111503_One UI Home_1](https://user-images.githubusercontent.com/46275549/96531961-d537e700-12c5-11eb-8975-c8d8fe0d0693.gif)
-![Screen_Recording_20201020-111604_1](https://user-images.githubusercontent.com/46275549/96531963-d6691400-12c5-11eb-9e50-8a03d6700a9a.gif)
+메일 입력 | 숫자 비밀번호 입력 |
+:---:|:---:|
+![](https://user-images.githubusercontent.com/46275549/96531961-d537e700-12c5-11eb-8975-c8d8fe0d0693.gif)  |  ![](https://user-images.githubusercontent.com/46275549/96531963-d6691400-12c5-11eb-9e50-8a03d6700a9a.gif)
 
 ## Text
 ~~~dart
