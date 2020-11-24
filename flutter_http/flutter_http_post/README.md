@@ -1,11 +1,11 @@
 # flutter_http_post
 
-- http 통신으로 서버에 데이터를 보내는 예제인비다.
+- http 통신으로 서버에 데이터를 보내는 예제입니다.
 - 버튼을 누르면 TextField에 입력된 데이터를 전송하며, 잘 전송이 됐을 시 보낸 데이터를 돌려받고 이를 보여줍니다.
 - "JSONPlaceholder"를 사용해 서버에 데이터를 전송합니다.
 - "http" 패키지를 사용해 제작했습니다.
 - 패키지 적용 방법은 [flutter_Package](https://github.com/OOGEE/Flutter/tree/master/flutter_Package)를 통해 확인할 수 있습니다.
-- TextField에 관한 부분은 설명은 [flutter_text](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_text)를 통해 확인할 수 잇습니다.
+- TextField에 관한 부분은 설명은 [flutter_text](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_text)를 통해 확인할 수 있습니다.
 
 ![Screen_Recording_20201124-101819_1](https://user-images.githubusercontent.com/46275549/100033935-7b838900-2e3e-11eb-9120-366a520608dc.gif)
 
