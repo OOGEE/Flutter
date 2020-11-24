@@ -29,13 +29,14 @@ import 'package:http/http.dart' as http;
 ~~~
 - 패키지를 사용하기위해 불러오고 http라는 이름으로 대체
 
-~~~
+~~~dart
 void GetData() async {
   final response = await http.get('https://jsonplaceholder.typicode.com/todos/1');
   setState(() {
     text = response.body;
   });
 }
+~~~
 - 입력한 주소로부터 데이터를 가져온 뒤 text에 이를 반영
 - response.body는 response의 본문이 담겨있음
 - response.headers로 response의 헤더를 불러올 수 있고, response.statusCode로 응답 상태 코드를 불러올 수 있음
