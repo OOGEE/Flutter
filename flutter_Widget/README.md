@@ -36,6 +36,11 @@
 - 앞에 해당하는 숫자가 선정되면 뒤에 DropdownButton의 범위를 그에 따라 변경합니다.
 - 기존의 flutter_drop_down_button을 기반으로 제작했기 때문에 추가 및 수정된 부분만 설명했습니다.
 
+## [flutter_expansion_tile](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_expansion_tile)
+
+- Expansion Tile에 해당하는 부분을 누르면 children 내부에 선언해 뒀던 위젯들이 출력되고, 다시 누르면 없어지게 하는 예제입니다.
+- drop down button과 비슷한 개념이지만, 내부의 위젯을 누르거나 바깥쪽을 누른다고 사라지지 않으며, 생성된 위젯이 공간을 차지한다는 차이가 있습니다.
+
 ## [flutter_image](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_image)
 
 - 원하는 이미지를 사용하는 방법입니다.
