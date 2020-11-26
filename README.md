@@ -35,6 +35,10 @@
 
 - 위젯에 관해 모아놓은 것입니다.
 
+## [flutter_app_icon](https://github.com/OOGEE/Flutter/tree/master/flutter_app_icon)
+
+- 앱 아이콘을 변경하는 방법입니다.
+
 ## [flutter_http](https://github.com/OOGEE/Flutter/tree/master/flutter_http)
 
 - http 통신에 관해 모아놓은 것입니다.
