@@ -25,6 +25,13 @@
 - Dialog는 화면을 다 채우지 않는 작은 팝업 화면으로 사용자에게 정보를 입력 받거나, 확인을 위해 창을 띄워주는데 사용하는 위젯입니다.
 - Dialog 창의 'OK'나 'close'를 누르면 팝업 창이 사라집니다.
 
+## [flutter_drawer](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_drawer)
+
+- 좌측 상단의 버튼을 클릭하면 화면 왼쪽에 슬라이드 메뉴가 팝업되는 drawer를 사용한 예제입니다.
+- 버튼을 누르거나 팝업 화면 바깥을 누르게 되면 화면이 사라집니다.
+- drawer는 하나의 새로운 화면을 생성하는 개념으로 내부에 위젯을 자유롭게 배치할 수 있습니다.
+
+
 ## [flutter_drop_down_button](https://github.com/OOGEE/Flutter/tree/master/flutter_Widget/flutter_drop_down_button)
 
 - 박스를 누르면 리스트가 나오고 그 중 하나를 선택 할 수 있는 기능을 가진 DropdownButton 위젯에 관한 내용입니다.
