@@ -2,9 +2,15 @@
 
 - BLE와 연결을 할 수 있는 예제입니다.
 - 본 예제에서는 안드로이드 환경 스마트폰과 아두이노 우노, HM-10 모듈을 사용했습니다.
+- flutter run을 통한 debug 모드와 flutter run --release를 통한 release 모드를 모두 실행했을 땐 문제가 없었으나, APK 파일로 build해서 스마트폰에 올렸을 때는 블루투스의 켜짐 상태를 인식하지 못하는 에러가 있습니다.
+- flutter run --release를 했을 때 생성되는 apk 파일로 화면 이미지를 제작했습니다.
 - "flutter_blue" 패키지를 사용했습니다.
 - flutter_blue 패키지의 예제를 인용해 제작했습니다.
 - 패키지 적용 방법은 [flutter_Package](https://github.com/OOGEE/Flutter/tree/master/flutter_Package)를 통해 확인할 수 있습니다.
+
+초기 화면 | 검색 | 모듈 연결 | 모듈 연결 해제 | 블루투스 off |
+:---:|:---:|:---:|:---:|:---:|
+![](https://user-images.githubusercontent.com/46275549/100697764-34673c00-33da-11eb-8f2b-0d296a4a2ddc.jpg)  |  ![](https://user-images.githubusercontent.com/46275549/100697759-329d7880-33da-11eb-886f-bda0fcad6d81.jpg)  |  ![](https://user-images.githubusercontent.com/46275549/100697761-33360f00-33da-11eb-891b-882f7396063a.jpg) |  ![](https://user-images.githubusercontent.com/46275549/100697762-33cea580-33da-11eb-9f50-581e754cd2bf.jpg) |  ![](https://user-images.githubusercontent.com/46275549/100697763-34673c00-33da-11eb-9d7a-09f97f89f28f.jpg)
 
 ## pubspec.yaml
 ~~~dart
