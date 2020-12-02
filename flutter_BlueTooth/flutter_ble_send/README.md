@@ -6,7 +6,7 @@
 
 어플 화면 | 아두이노 시리얼 창 |
 :---:|:---:|
-![](https://user-images.githubusercontent.com/46275549/100812240-e73da580-347f-11eb-9880-d57b3a392fe8.jpg) | ![](https://user-images.githubusercontent.com/46275549/100812244-e86ed280-347f-11eb-8fc5-ec3f2c986b76.png)
+<img width="700" height="600" src="https://user-images.githubusercontent.com/46275549/100812240-e73da580-347f-11eb-9880-d57b3a392fe8.jpg"/> | <img src="https://user-images.githubusercontent.com/46275549/100812244-e86ed280-347f-11eb-8fc5-ec3f2c986b76.png"/>
 
 ## SendPage
 ~~~dart
