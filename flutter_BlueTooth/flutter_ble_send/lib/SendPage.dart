@@ -20,7 +20,7 @@ class Send extends State<SendPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Connect Page"),
+        title: Text("Send Page"),
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.bluetooth_connected),

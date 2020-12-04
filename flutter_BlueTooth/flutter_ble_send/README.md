@@ -3,6 +3,7 @@
 - BLE와 연결 및 데이터를 송신할 수 있는 예제입니다.
 - 본 예제는 전송에 관한 내용만을 다룬 것으로 연결에 관한 내용은 [flutter_ble_connect](https://github.com/OOGEE/Flutter/tree/master/flutter_BlueTooth/flutter_ble_connect)를 통해 확인할 수 있으며, 기타 설정과 문제점, 사용 모듈에 관한 내용이 들어가있기 때문에 먼저 보고 오시는걸 권장드립니다.
 - [flutter_ble_connect](https://github.com/OOGEE/Flutter/tree/master/flutter_BlueTooth/flutter_ble_connect)에서 설명한 내용은 생략했습니다.
+- flutter_blue 패키지의 예제를 인용해 제작했습니다.
 
 어플 화면 | 아두이노 시리얼 창 |
 :---:|:---:|
